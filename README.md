@@ -1,6 +1,6 @@
 # Getting Started with my cat home website
 
-This project is [Access My website](https://blissful-dijkstra-fd2247.netlify.app/).
+this is all about paws, [Go My website](https://blissful-dijkstra-fd2247.netlify.app/).
 This is web site for cat adoption,where we advertise cats.
 
 ## Available Scripts
