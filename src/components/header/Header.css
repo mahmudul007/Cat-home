@@ -1,0 +1,17 @@
+.head img{
+
+    width: 20%;
+}
+.head{
+  display: flex;
+ 
+   
+}
+.text{
+    text-align: center;
+    padding-left: 200px;
+ 
+}
+.text h1{
+    color: coral;
+}
